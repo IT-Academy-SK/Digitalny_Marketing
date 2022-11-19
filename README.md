@@ -1,22 +1,25 @@
-# 🔍 Marketing vo Vyhľadávacích Nástrojoch
-* Prednášky Marketing vo Vyhľadávacích Nástrojoch
+# 🤳 Digitálny Marketing
+* Prednášky Digitálny Marketing
 * Univerzita Komenského v Bratislave Fakulta managementu UK FM 2022
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
-* Úroveň: mierne pokročilý
+* Úroveň: začiatočník
 * Odporúčané kolaboračné nástroje na prácu v tíme: Mural, Jamboard, Miro, Microsoft Word a PowerPoint v OneDrive, Google Workspace
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
-1. Viditeľnosť vo výsledkoch vyhľadávania ako základ integrovanej marketingovej komunikácie.
-1. Vyhľadávacie nástroje – prehľad SK verzus iné krajiny, podobnosti a rozdiely.
-1. Výsledky vyhľadávania – princíp hľadania, typy odkazov a výsledkov, hlasové vyhľadávanie.
-1. Kľúčové slová – analýza KW, princípy, nástroje.
-1. Faktory organického umiestnenia – prehľad – najvýznamnejšie faktory, ktoré ovplyvňujú pozície vo vyhľadávaní.
-1. Onsite SEO – detailné vysvetlenie procesu, analýza obsahu, HTML, technické SEO, nástroje.
-1. Offsite SEO – link profil, budovanie odkazového profilu, ukazovatele, nástroje.
-1. Sledovanie rankingu – ukážky sledovania pozícií – rôzne trhy, GEO lokácie, kategórie, KW, tagy, organické KW verzus manuálne sledovanie, nástroje.
-1. SEO audit – komponenty, praktické ukážky auditu a nastavenia SEO stratégie.
-1. Projekt návrhu a implementácie SEM stratégie resp. realizácie SEO auditu vybranej webovej stránky.
+1. Porovnanie tradičného a digitálneho marketing.  
+2. Digitálny marketing a jeho základné koncepty.  
+3. Digitálne prostredie.  
+4. Digitálny marketingový mix.  
+5. Špecifiká správania zákazníkov v digitálnom prostredí.  
+6. Digitálny marketingový výskum a analytika.  
+7. Digitálna marketingová komunikácia.  
+8. Nástroje digitálnej marketingovej komunikácie.  
+9. Meranie účinnosti digitálnej marketingovej komunikácie.  
+10. Digitálne marketingové stratégie.  
+11. GDPR a ochrana spotrebiteľa v digitálnom prostredí.  
+12. Nové trendy v digitálnom marketingu.  
+13. Marketing 4.0.  
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad v online marketingových vyhľadávacích nástrojchv a aplikáciach vrátane SEO
@@ -31,12 +34,12 @@
 * Pripraviť sa na budúcu prácu alebo podnikanie v oblasti manažmentu, marketingu a reklamy
 
 ## 📈 YouTube video záznamy z cvičení Playlist
-[YouTube kanál IT Academy](https://www.youtube.com/watch?v=GNUM6owU7s8&list=PLIu_ZdHo7Pk8rNPvytjNNVjKFZ1TJlbkP)
+[YouTube kanál IT Academy](https://www.youtube.com/watch?v=rvOgXfrMDLY&list=PLIu_ZdHo7Pk_EvbBKv6u7Q2UFrHwPi34c)
 
 ## 🥇 Podmienky na absolvovanie predmetu
-* **30 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**
-* **20 bodov** získanie Google certifikácie Mobilné prostredie + aktívna účasť
-* **50 bodov** záverečné hodnotenie
+* **20 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**
+* **20 bodov** získanie Google/Hubspot certifikácie Základy digitálneho marketingu, Digital Marketing + aktívna účasť
+* **60 bodov** záverečné hodnotenie
   *  Skúška – písomná, online test 
  
 ## :hammer_and_wrench: Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
