@@ -1,10 +1,10 @@
 # 🤳 Digitálny Marketing
-* Prednášky Digitálny Marketing
+* Prednášky/Cvičenia Digitálny Marketing
 * Univerzita Komenského v Bratislave Fakulta managementu UK FM 2022
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
-* Úroveň: začiatočník
-* Odporúčané kolaboračné nástroje na prácu v tíme: Mural, Jamboard, Miro, Microsoft Word a PowerPoint v OneDrive, Google Workspace
+* Úroveň: Začiatočník
+* Odporúčané kolaboračné nástroje na prácu v tíme: **Mural**, **Jamboard**, Miro, Microsoft Word a **PowerPoint v OneDrive**, Google Workspace
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Porovnanie tradičného a digitálneho marketing.  
