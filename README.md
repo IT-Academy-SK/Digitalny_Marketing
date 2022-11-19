@@ -22,11 +22,13 @@
 13. Marketing 4.0.  
 
 ## 👨‍🏫 Výsledky vzdelávania
-* Získať prehľad v online marketingových vyhľadávacích nástrojchv a aplikáciach vrátane SEO
+* Získať prehľad/komplexnú bázu informácií z prostredia digitálneho marketingu
 * Využívať odborné znalosti v praxi
+* Porozumieť kľúčovým konceptom digitálneho marketingu vrátane výhod a limitácií
 * Zdokonaliť sa v tímovej spolupráci a prezentovaní
 * Nadobudnúť zručnosti vo využívaní vybraných marketingových nástrojov a kolaboračných programov
 * Osvojiť si základy z merania úspešnosti reklamy a dôležitých vybraných metrík
+* Pracovať so získanými vedomosťami v digitálnom prostredí
 * Schopnosť identifikovať a riešiť problémy
 * Zlepšiť podnikavosť, schopnosť identifikovať nové (podnikateľské) príležitosti
 * Schopnosť sa samostatne ďalej vzdelávať sa a organizovať svoje učenie v oblasti marketingu a reklamy
